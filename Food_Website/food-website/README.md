@@ -32,6 +32,7 @@ This project was created as a practice exercise to strengthen front-end skills a
    ```bash
    git clone https://github.com/AndDevil/<your-repo-name>.git
    cd <your-repo-name>
+   ```
 
 2. Open the index.html file in your browser.
 
@@ -40,7 +41,7 @@ This project was created as a practice exercise to strengthen front-end skills a
 
 ---
 
-🤝 Contributions
+## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome!
 Feel free to fork this repo and create a pull request.
@@ -48,17 +49,14 @@ Feel free to fork this repo and create a pull request.
 
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 
 ---
 
-👨‍💻 Author
-
-Shrish Kumar
-
-GitHub: AndDevil
-
-LinkedIn: Shrish Kumar
+## 👨‍💻 Author
+**Shrish Kumar**  
+- GitHub: [AndDevil](https://github.com/AndDevil)  
+- LinkedIn: [Shrish Kumar](https://www.linkedin.com/in/shrish-k-83821212a/)
